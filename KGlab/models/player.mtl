@@ -1,0 +1,48 @@
+newmtl body
+map_Kd textures/body.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl head
+map_Kd textures/body.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl ears
+map_Kd textures/ears.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl eyes
+map_Kd textures/eyes.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl nose
+map_Kd textures/nose.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl legs
+map_Kd textures/body.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
+
+newmtl tail
+map_Kd textures/body.png
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 32.0
